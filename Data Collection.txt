@@ -1,0 +1,16 @@
+Goal: To predict outcomes of matches
+
+Possible attacks
+Attempt: Get match data and try to have algorithm predict winner
+Data: Need match data of TFT matches
+Process: 	Use Riot API
+		Obtain SummonerID of top players
+		From SummonerID obtain PUUID
+		From PUUID obtain ~200 matchID
+		Use matchID to obtain match information
+		Use match information to obtain more PUUID
+		Repeat until a suitible amount of data is accrued
+
+Storage:	Store PUUID 		-txt or csv
+		Store MatchID 		-txt or csv
+		Store Match Info 	-JSON
