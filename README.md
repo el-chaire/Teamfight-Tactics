@@ -20,6 +20,6 @@
 - Mock Data series of file: The series of notebooks that will create the mock data which are hypothetical teams in the game and we will feed it into the model to obtain predictions of probability to obtaining top placement
 
 ### Conclusion
-We are able to predict the performance of team compositions in Teamfight Tactics reasonable well and we are able to derive reasonable strategies that were built upon the common strateigies used to obtain high placements. The implementation of these strategies, from 10/13/2021-10/20/2021 caused an increase of personal ranking from top 20% to top 9% which is a new personal best. This can be seen in the following link: https://lolchess.gg/profile/na/elchaire/s5.5
+We are able to predict the performance of team compositions in Teamfight Tactics reasonable well and we are able to derive reasonable strategies that were built upon the common strategies used to obtain high placements in top level competition (Top 1% in North America). The implementation of these strategies, from 10/13/2021-10/20/2021 caused an increase of personal ranking from top 20% to top 9% which is a new personal best. This can be seen in the following link: https://lolchess.gg/profile/na/elchaire/s5.5
 
 ### More information can be found in the .pdf report.
